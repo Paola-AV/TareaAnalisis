@@ -1,0 +1,12 @@
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\bin\Debug\net8.0\ApiTarea_Domain.deps.json
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\bin\Debug\net8.0\ApiTarea_Domain.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\bin\Debug\net8.0\ApiTarea_Domain.pdb
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.AssemblyInfoInputs.cache
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.AssemblyInfo.cs
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.csproj.CoreCompileInputs.cache
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.sourcelink.json
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\refint\ApiTarea_Domain.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ApiTarea_Domain.pdb
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_Domain\obj\Debug\net8.0\ref\ApiTarea_Domain.dll

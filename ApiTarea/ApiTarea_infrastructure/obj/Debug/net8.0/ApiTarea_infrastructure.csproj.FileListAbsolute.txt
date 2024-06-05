@@ -1,0 +1,16 @@
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\bin\Debug\net8.0\ApiTarea_infrastructure.deps.json
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\bin\Debug\net8.0\ApiTarea_infrastructure.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\bin\Debug\net8.0\ApiTarea_infrastructure.pdb
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.csproj.AssemblyReference.cache
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.AssemblyInfoInputs.cache
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.AssemblyInfo.cs
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.sourcelink.json
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\refint\ApiTarea_infrastructure.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea_infrastructure.pdb
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ref\ApiTarea_infrastructure.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\bin\Debug\net8.0\ApiTarea_Domain.dll
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\bin\Debug\net8.0\ApiTarea_Domain.pdb
+C:\Users\varga\OneDrive\Desktop\GitAfigo\TareaApi\ApiTarea\ApiTarea_infrastructure\obj\Debug\net8.0\ApiTarea.31325F66.Up2Date

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTarea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc02528eceab83ce7b95d3854143a8b4b34af22a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTarea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTarea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

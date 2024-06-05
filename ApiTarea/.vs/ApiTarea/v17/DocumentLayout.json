@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\",
+  "WorkspaceRootPath": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\apitarea\\apitarea\\apitarea\\controller\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\controller\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28389698-157F-4596-998D-64CAB701D7AA}|ApiTarea_Application\\ApiTarea_Application.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea_application\\service\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28389698-157F-4596-998D-64CAB701D7AA}|ApiTarea_Application\\ApiTarea_Application.csproj|solutionrelative:apitarea_application\\service\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\apitarea\\apitarea\\apitarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53E8730-979C-4361-BCCE-455F0594EEF1}|ApiTarea_infrastructure\\ApiTarea_infrastructure.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea_infrastructure\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E8730-979C-4361-BCCE-455F0594EEF1}|ApiTarea_infrastructure\\ApiTarea_infrastructure.csproj|solutionrelative:apitarea_infrastructure\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\apitarea\\apitarea\\apitarea\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53E8730-979C-4361-BCCE-455F0594EEF1}|ApiTarea_infrastructure\\ApiTarea_infrastructure.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea_infrastructure\\data\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E8730-979C-4361-BCCE-455F0594EEF1}|ApiTarea_infrastructure\\ApiTarea_infrastructure.csproj|solutionrelative:apitarea_infrastructure\\data\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\apitarea\\apitarea\\apitarea\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6A5F1411-C7F2-4535-86AD-4B9F16146964}|ApiTarea_Domain\\ApiTarea_Domain.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea_domain\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F1411-C7F2-4535-86AD-4B9F16146964}|ApiTarea_Domain\\ApiTarea_Domain.csproj|solutionrelative:apitarea_domain\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\apitarea\\apitarea\\apitarea\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFBB21C-E90A-4E4C-8D6A-C5FC0DCC793B}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E7995C6-1A40-447B-B8C2-F32BF634B4FF}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7995C6-1A40-447B-B8C2-F32BF634B4FF}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53E8730-979C-4361-BCCE-455F0594EEF1}|ApiTarea_infrastructure\\ApiTarea_infrastructure.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea_infrastructure\\interface\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E8730-979C-4361-BCCE-455F0594EEF1}|ApiTarea_infrastructure\\ApiTarea_infrastructure.csproj|solutionrelative:apitarea_infrastructure\\interface\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28389698-157F-4596-998D-64CAB701D7AA}|ApiTarea_Application\\ApiTarea_Application.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea_application\\interface\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28389698-157F-4596-998D-64CAB701D7AA}|ApiTarea_Application\\ApiTarea_Application.csproj|solutionrelative:apitarea_application\\interface\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7995C6-1A40-447B-B8C2-F32BF634B4FF}|ApiTarea\\ApiTarea.csproj|c:\\users\\varga\\onedrive\\desktop\\gitafigo\\tareaapi\\apitarea\\apitarea\\apitarea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E7995C6-1A40-447B-B8C2-F32BF634B4FF}|ApiTarea\\ApiTarea.csproj|solutionrelative:apitarea\\apitarea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Program.cs",
-              "RelativeDocumentMoniker": "ApiTarea\\Program.cs",
-              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Program.cs",
-              "RelativeToolTip": "ApiTarea\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:59:02.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ApiTarea\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\appsettings.Development.json",
-              "RelativeToolTip": "ApiTarea\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-03T17:52:51.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Model\\Persona.cs",
-              "RelativeDocumentMoniker": "ApiTarea\\Model\\Persona.cs",
-              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Model\\Persona.cs",
-              "RelativeToolTip": "ApiTarea\\Model\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:28:14.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Model\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "ApiTarea\\Model\\UserDbContext.cs",
-              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Model\\UserDbContext.cs",
-              "RelativeToolTip": "ApiTarea\\Model\\UserDbContext.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Title": "ConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_infrastructure\\Data\\ConnectionService.cs",
+              "RelativeDocumentMoniker": "ApiTarea_infrastructure\\Data\\ConnectionService.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_infrastructure\\Data\\ConnectionService.cs",
+              "RelativeToolTip": "ApiTarea_infrastructure\\Data\\ConnectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:15:30.003Z",
+              "WhenOpened": "2024-06-05T04:12:45.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Controller\\PersonaController.cs",
-              "RelativeDocumentMoniker": "ApiTarea\\Controller\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\ApiTarea\\ApiTarea\\ApiTarea\\Controller\\PersonaController.cs",
-              "RelativeToolTip": "ApiTarea\\Controller\\PersonaController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBkAAAAnAAAA",
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_Application\\Service\\PersonaService.cs",
+              "RelativeDocumentMoniker": "ApiTarea_Application\\Service\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_Application\\Service\\PersonaService.cs",
+              "RelativeToolTip": "ApiTarea_Application\\Service\\PersonaService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:06:21.993Z",
+              "WhenOpened": "2024-06-04T17:31:43.282Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_Application\\Interface\\IPersonaService.cs",
+              "RelativeDocumentMoniker": "ApiTarea_Application\\Interface\\IPersonaService.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_Application\\Interface\\IPersonaService.cs",
+              "RelativeToolTip": "ApiTarea_Application\\Interface\\IPersonaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:31:15.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_infrastructure\\Interface\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "ApiTarea_infrastructure\\Interface\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_infrastructure\\Interface\\IPersonaRepository.cs",
+              "RelativeToolTip": "ApiTarea_infrastructure\\Interface\\IPersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:17:25.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_infrastructure\\Repository\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "ApiTarea_infrastructure\\Repository\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_infrastructure\\Repository\\PersonaRepository.cs",
+              "RelativeToolTip": "ApiTarea_infrastructure\\Repository\\PersonaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:29:29.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_Domain\\Entity\\Persona.cs",
+              "RelativeDocumentMoniker": "ApiTarea_Domain\\Entity\\Persona.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea_Domain\\Entity\\Persona.cs",
+              "RelativeToolTip": "ApiTarea_Domain\\Entity\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:29:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "ApiTarea\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "ApiTarea\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:28:52.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiTarea.csproj",
+              "DocumentMoniker": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea\\ApiTarea.csproj",
+              "RelativeDocumentMoniker": "ApiTarea\\ApiTarea.csproj",
+              "ToolTip": "C:\\Users\\varga\\OneDrive\\Desktop\\GitAfigo\\TareaApi\\ApiTarea\\ApiTarea\\ApiTarea.csproj",
+              "RelativeToolTip": "ApiTarea\\ApiTarea.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T13:26:29.511Z"
             }
           ]
         }

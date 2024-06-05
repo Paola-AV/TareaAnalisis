@@ -1,11 +1,6 @@
-@ApiTarea_HostAddress = http://localhost:5025
+@ApiTarea_HostAddress = http://localhost:5042
 
-GET {{ApiTarea_HostAddress}}/todos/
-Accept: application/json
-
-###
-
-GET {{ApiTarea_HostAddress}}/todos/1
+GET {{ApiTarea_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
